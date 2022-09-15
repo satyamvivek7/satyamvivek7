@@ -11,7 +11,7 @@
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=satyamvivek&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=satyamvivek7&column=7"/>
   </a>
 </div>
 
@@ -132,7 +132,7 @@ Languages and Tools:
         <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"   />
     </a>
 
-![](https://activity-graph.herokuapp.com/graph?username=satyamvivek&theme=react-dark&area=true)
+![](https://activity-graph.herokuapp.com/graph?username=satyamvivek7&theme=react-dark&area=true)
 <!--
 **SatyamVivek/SatyamVivek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
