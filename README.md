@@ -5,9 +5,8 @@
 
 
 
-I'm
-Student
-HTML,CSS,JS,SQL,MONGODB,C,C++,JAVA,PYTHON,NODE JS
+
+(HTML,CSS,JS,SQL,MONGODB,C,C++,JAVA,PYTHON,NODE JS)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
