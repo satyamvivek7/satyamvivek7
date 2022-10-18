@@ -1,10 +1,6 @@
 ### Hi Developers 👋
-
-
+I am Satyam vivek
 [![Linkedin Badge](https://img.shields.io/badge/-Satyam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/satyam-vivek-43758a212/)](https://www.linkedin.com/in/satyam-vivek-43758a212/)
-
-
-
 
 (HTML,CSS,JS,SQL,MONGODB,C,C++,JAVA,PYTHON,NODE JS)
 
